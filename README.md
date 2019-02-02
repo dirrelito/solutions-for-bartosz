@@ -17,10 +17,7 @@ For the book, go to: https://bartoszmilewski.com/2014/10/28/category-theory-for-
  - [ ] 12.4
  - [ ] 12.5
  - [ ] 12.6
-#### Ch 13 https://github.com/dirrelito/solutions-for-bartosz/blob/master/ch13/chapter%2013.tex
- - [x] 13.1
- - [x] 13.2
- - [x] 13.3
+#### Ch 13 Free Monoids - https://github.com/dirrelito/solutions-for-bartosz/blob/master/ch13/chapter%2013.tex
 #### Ch 14
  - [ ] 14.1
  - [ ] 14.2
