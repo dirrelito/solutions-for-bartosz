@@ -10,13 +10,7 @@ For the book, go to: https://bartoszmilewski.com/2014/10/28/category-theory-for-
 **I'll probably not do theese, since other people hade solved them and uploaded them before me, and I don't enjoy them that much...**
 
 ### Part Two
-#### Ch 12
- - [ ] 12.1
- - [ ] 12.2
- - [ ] 12.3
- - [ ] 12.4
- - [ ] 12.5
- - [ ] 12.6
+#### Ch 12 Limits and colimits - https://github.com/dirrelito/solutions-for-bartosz/blob/master/ch12/chapter%2012.tex
 #### Ch 13 Free Monoids - https://github.com/dirrelito/solutions-for-bartosz/blob/master/ch13/chapter%2013.tex
 #### Ch 14
  - [ ] 14.1
